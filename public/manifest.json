@@ -1,6 +1,6 @@
 {
-  "name": "trackdin",
-  "description": "My first chrome extension",
+  "name": "ZoomOff",
+  "description": "Escape from call in smart way!",
   "version": "1.0",
   "manifest_version": 2,
   "browser_action": {
