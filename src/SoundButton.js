@@ -12,19 +12,22 @@ function SoundButton(props) {
     const textSound = props.sound == 'ringtone' ? 'ringtone' : 'bell';
     const [play, { stop, isPlaying }] = useSound(sound);
     const [color, setColor] = useState('primary');
+    const [icon, setIcon] = useState(<PlayCircleOutlineIcon/>);
     const handleClick = () => {
         if(!isPlaying) {
             play();
             setText('stop');
             setColor('secondary');
+            setIcon(<StopIcon/>);
         } else {
             stop();
             setText('play');
             setColor('primary');
+            setIcon(<PlayCircleOutlineIcon/>);
         }
     }
     return (
-        <Button variant="contained" color={color} onClick={handleClick} startIcon={<PlayCircleOutlineIcon/>}>{text} {textSound}</Button>
+        <Button variant="contained" color={color} onClick={handleClick} startIcon={icon}>{text} {textSound}</Button>
     );
 };
 export default SoundButton;

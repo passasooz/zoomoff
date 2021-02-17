@@ -1,12 +1,20 @@
 .App {
   text-align: center;
   width: 400px;
-  height: 400px;
 }
 
-.App-logo {
+.man-img {
   height: 40vmin;
   pointer-events: none;
+  width: 50%;
+  margin: 0 auto;
+}
+.title-img {
+  width: 80%;
+  margin: 50px auto 30px;
+}
+h1,h3 {
+  margin: 0;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -32,13 +40,14 @@
   display: flex;
   align-items: center;
   justify-content:space-evenly;
+  margin:50px 0;
 }
 
-@keyframes App-logo-spin {
+/*@keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
   }
   to {
     transform: rotate(360deg);
   }
-}
+}*/
