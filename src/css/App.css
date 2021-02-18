@@ -34,13 +34,14 @@ h1,h3 {
 }
 
 .App-link {
-  color: #61dafb;
+  margin: 25px 0px 50px;
+  color: #34495e;
 }
 .btn-cnt {
   display: flex;
   align-items: center;
   justify-content:space-evenly;
-  margin:50px 0;
+  margin:50px 0 25px;
 }
 
 /*@keyframes App-logo-spin {

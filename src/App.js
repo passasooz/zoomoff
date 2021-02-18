@@ -16,16 +16,15 @@ function App() {
           <SoundButton sound="ringtone"></SoundButton>
           <SoundButton sound="bell"></SoundButton>
         </div>
+        <a
+          className="App-link"
+          href="https://gamindo.com/zoomoff"
+          target="_blank"
+          rel="noopener noreferrer"
+        >credits
+        </a>
       </header>
     </div>
   );
 }
-/*<a
-  className="App-link"
-  href="https://reactjs.org"
-  target="_blank"
-  rel="noopener noreferrer"
->
-  Learn React
-</a>*/
 export default App;
