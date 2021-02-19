@@ -18,4 +18,4 @@ Contribute to implements new sounds or new tricks on this repo.
 
 ## Donate
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](5BD7SNTLUCMZQ)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](francescopassanante@gmail.com)
