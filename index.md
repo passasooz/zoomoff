@@ -3,7 +3,8 @@
 Just a simply chrome extension which allows bored users to escape from tired call in a smart way.
 
 A video to shows how it works
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/ltF3UDY0D6o)
+
+[![Watch the video](https://img.youtube.com/vi/ltF3UDY0D6o/maxresdefault.jpg)](https://youtu.be/ltF3UDY0D6o)
 
 [Here](https://www.producthunt.com/posts/zoomoff) to upvote on ProductHunt.
 
