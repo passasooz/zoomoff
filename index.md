@@ -18,4 +18,8 @@ Contribute to implements new sounds or new tricks on this repo.
 
 ## Donate
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](francescopassanante@gmail.com)
+[
+  ![Donate with PayPal]
+  (https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)
+]
+(https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5BD7SNTLUCMZQ)
